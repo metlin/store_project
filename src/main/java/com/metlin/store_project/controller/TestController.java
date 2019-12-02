@@ -13,4 +13,8 @@ public class TestController {
     public String string1() {
         return "123";
     }
+
+    public String testBranch2() {
+        return "rewrw";
+    }
 }
