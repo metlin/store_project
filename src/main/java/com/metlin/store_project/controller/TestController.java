@@ -21,4 +21,8 @@ public class TestController {
     public String testBranch2() {
         return "rewrw";
     }
+
+    public String testBranch234534() {
+        return "rewrw234534";
+    }
 }
