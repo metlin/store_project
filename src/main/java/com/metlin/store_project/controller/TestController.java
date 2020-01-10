@@ -33,4 +33,8 @@ public class TestController {
     public String testCommit2() {
         return "1234";
     }
+
+    public String testCommit3() {
+        return "12345";
+    }
 }
