@@ -29,4 +29,8 @@ public class TestController {
     public String testCommit() {
         return "123";
     }
+
+    public String testCommit2() {
+        return "1234";
+    }
 }
