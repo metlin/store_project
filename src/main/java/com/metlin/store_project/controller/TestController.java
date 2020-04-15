@@ -41,4 +41,8 @@ public class TestController {
     public String qwe() {
         return "sdf";
     }
+
+    public String testMaster() {
+        return "123";
+    }
 }
