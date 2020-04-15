@@ -38,6 +38,10 @@ public class TestController {
         return "12345";
     }
 
+    public String qwe() {
+        return "sdf";
+    }
+
     public String testMaster() {
         return "123";
     }
