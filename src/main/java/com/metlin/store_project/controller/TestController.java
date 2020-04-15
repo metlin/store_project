@@ -37,4 +37,8 @@ public class TestController {
     public String testCommit3() {
         return "12345";
     }
+
+    public String qwe() {
+        return "sdf";
+    }
 }
