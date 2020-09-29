@@ -9,36 +9,4 @@ public class TestController {
     public String firstPage() {
         return "welcome";
     }
-
-    public String string1() {
-        return "123";
-    }
-
-    public String testBranch() {
-        return "123";
-    }
-
-    public String testBranch2() {
-        return "rewrw";
-    }
-
-    public String testBranch234534() {
-        return "rewrw234534";
-    }
-
-    public String testCommit() {
-        return "123";
-    }
-
-    public String testCommit2() {
-        return "1234";
-    }
-
-    public String testCommit3() {
-        return "12345";
-    }
-
-    public String qwe() {
-        return "sdf";
-    }
 }
