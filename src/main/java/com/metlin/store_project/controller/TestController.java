@@ -9,4 +9,8 @@ public class TestController {
     public String firstPage() {
         return "welcome";
     }
+
+    public void asd() {
+
+    }
 }
