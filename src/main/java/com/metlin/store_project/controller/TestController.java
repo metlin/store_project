@@ -9,7 +9,6 @@ public class TestController {
     public String firstPage() {
         return "welcome";
     }
-<<<<<<< HEAD
 
     public String string1() {
         return "123";
@@ -28,8 +27,6 @@ public class TestController {
     }
 
     public String testBranch1488() {
-        return "rewrw1488";
+        return "rewrw14881";
     }
-=======
->>>>>>> dfe9601009ee2c4a25c9ce2a84978d4bcf99d315
 }
