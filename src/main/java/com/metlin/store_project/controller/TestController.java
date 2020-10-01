@@ -12,5 +12,6 @@ public class TestController {
 
     public void asd() {
         String string = "asd122111";
+        int a = 5;
     }
 }
