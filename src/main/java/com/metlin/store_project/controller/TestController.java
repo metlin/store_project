@@ -22,4 +22,9 @@ public class TestController {
       int a = 5;
       int b = 1;
     }
+
+    public void dfg() {
+        int a = 5;
+        int b = 1;
+    }
 }
