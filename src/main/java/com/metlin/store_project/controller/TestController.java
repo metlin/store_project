@@ -20,4 +20,9 @@ public class TestController {
         String s3 = "string3";
         String s4 = "string4";
     }
+
+    public void qwe() {
+      int a = 5;
+      int b = 1;
+    }
 }
