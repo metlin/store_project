@@ -18,5 +18,6 @@ public class TestController {
         String s1 = "string";
         String s2 = "string2";
         String s3 = "string3";
+        String s4 = "string4";
     }
 }
