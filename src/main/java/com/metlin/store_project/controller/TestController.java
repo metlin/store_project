@@ -16,5 +16,6 @@ public class TestController {
         int a = 5121;
 
         String s1 = "string";
+        String s2 = "string2";
     }
 }
