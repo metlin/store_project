@@ -17,4 +17,9 @@ public class TestController {
 
         String s1 = "sdf12221a1";
     }
+
+    public void qwe() {
+      int a = 5;
+      int b = 1;
+    }
 }
