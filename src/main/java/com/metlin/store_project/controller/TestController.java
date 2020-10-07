@@ -23,6 +23,6 @@ public class TestController {
 
     public void rebase2() {
         String s1 = "rebase2";
-//        String s2 = "string2";
+        String s2 = "string2_2";
     }
 }
