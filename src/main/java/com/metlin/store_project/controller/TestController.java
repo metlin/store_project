@@ -20,4 +20,9 @@ public class TestController {
         String s3 = "string3";
         String s4 = "string4";
     }
+
+    public void rebase2() {
+        String s1 = "rebase2";
+//        String s2 = "string2";
+    }
 }
