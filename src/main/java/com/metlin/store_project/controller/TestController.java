@@ -15,8 +15,7 @@ public class TestController {
         String s = "sdf1231234";
         int a = 5121;
 
-        String s1 = "string";
-        String s2 = "string2";
+
 
     }
 }
