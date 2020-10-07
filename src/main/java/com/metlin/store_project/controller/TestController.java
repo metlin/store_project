@@ -21,6 +21,11 @@ public class TestController {
         String s4 = "string4";
     }
 
+    public void rebase1() {
+        String s1 = "rebase_1";
+
+    }
+
     public void rebase2() {
         String s1 = "rebase2";
         String s2 = "string2_2";
